@@ -1,1 +1,1 @@
-# image-classify-pytorch
+# Image-Classifier-with-Pytorch
